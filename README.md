@@ -1,20 +1,25 @@
 # Devashish Chhabra 😎
 
-** `Computer Science Student(Sales/Development/Management)`**
+`Computer Science Student(Sales/Development/Management)`
+
+I am a computer science student at the University of Toronto. I am extremely passionate about programming and enjoy building interesting and confusing projects. That being said, my expertise is in Algorithm development and the Maths side of programming. I try to build efficient and effective projects and am always looking to learn as much as I possibly can. I would not describe myself as a great programmer(yet), but rather as an extremely fast and eager learner. Anything I decide to learn, I am able to completely understand quickly and efficiently.
+
+---
+
+### Languages and Tools: 
 
 
+  <img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
 
-<!--
-**DevashishChhabra/DevashishChhabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on creating a basic Chatbot using python and C++
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Jira for project management, and also brushing up on my C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+🤔 I’m looking for help with any ambitious projects, I would love to join something from the ground up and give it my 1000% to watch it grow into a Behemoth.
+
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
