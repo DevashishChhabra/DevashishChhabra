@@ -1,4 +1,8 @@
-### Hi there 👋
+# Devashish Chhabra 😎
+
+** `Computer Science Student(Sales/Development/Management)`**
+
+
 
 <!--
 **DevashishChhabra/DevashishChhabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
