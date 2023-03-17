@@ -28,7 +28,6 @@ I am a computer science student at the University of Toronto. I am extremely pas
 
 🤔 I’m looking to help with any ambitious projects, I would love to join something from the ground up and give it my 100% to watch it grow into a Behemoth.
 
-
-- 📫 How to reach me: `Devashish Chhabra on LinkedIn, devashish.chhabra@mail.utoronto.ca`
+📫 How to reach me: `Devashish Chhabra on LinkedIn, devashish.chhabra@mail.utoronto.ca`
 
 
