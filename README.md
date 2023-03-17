@@ -18,7 +18,8 @@ I am a computer science student at the University of Toronto. I am extremely pas
   <img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
       
  #
-
+ 
+ ---
 
 
 🔭 I’m currently working on creating a basic Chatbot using python and C++
