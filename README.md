@@ -19,14 +19,13 @@ I am a computer science student at the University of Toronto. I am extremely pas
       
  #
 
-\newline
+
 
 🔭 I’m currently working on creating a basic Chatbot using python and C++
 
 🌱 I’m currently learning Jira for project management, and also brushing up on my C++.
 
-
-🤔 I’m looking for help with any ambitious projects, I would love to join something from the ground up and give it my 1000% to watch it grow into a Behemoth.
+🤔 I’m looking to help with any ambitious projects, I would love to join something from the ground up and give it my 100% to watch it grow into a Behemoth.
 
 
 - 📫 How to reach me: ...
